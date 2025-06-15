@@ -21,7 +21,7 @@ def sum_array(nums):
     total = 0  
     for num in nums:  
         total += num 
-    return tota
+    return total
 
 # 測試陣列
 numbers = [1, 2, 3, 4, 5]
